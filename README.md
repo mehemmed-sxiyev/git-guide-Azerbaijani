@@ -1,8 +1,8 @@
-git-guide-Azerbaijani
-=====================
+git-guide-Azerbaijani		![][1]
+=====================	
 
 > * That repository contains git guide for Azerbaijani language. 
-> * Bu depoda Azərbaycan dilindəki git bələdçi var.                 ![][1]
+> * Bu depoda Azərbaycan dilindəki git bələdçi var.                 
 > * Bu depo Azerbaycan dili için git kılavuzu içerir.
 
 
