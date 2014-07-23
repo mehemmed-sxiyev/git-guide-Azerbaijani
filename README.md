@@ -7,4 +7,14 @@ git-guide-Azerbaijani
 
 =====================
 
-### [git](https://github.com/mehemmed-sxiyev/git-guide-Azerbaijani/blob/master/img/git-1.png)
+### git ![][1]  
+
+
+
+
+
+
+
+
+  [1]: https://github.com/mehemmed-sxiyev/git-guide-Azerbaijani/blob/master/img/git-1.png
+  
